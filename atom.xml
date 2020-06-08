@@ -5,9 +5,9 @@
   <subtitle>SLAM算法记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/RobotSlam666/RobotSlam666.github.io/"/>
+  <link href="https://robotslam666.github.io/"/>
   <updated>2020-06-05T09:02:09.119Z</updated>
-  <id>https://github.com/RobotSlam666/RobotSlam666.github.io/</id>
+  <id>https://robotslam666.github.io/</id>
   
   <author>
     <name>王俊翔</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>sort-algorithm</title>
-    <link href="https://github.com/RobotSlam666/RobotSlam666.github.io/2020/06/05/sort-algorithm/"/>
-    <id>https://github.com/RobotSlam666/RobotSlam666.github.io/2020/06/05/sort-algorithm/</id>
+    <link href="https://robotslam666.github.io/2020/06/05/sort-algorithm/"/>
+    <id>https://robotslam666.github.io/2020/06/05/sort-algorithm/</id>
     <published>2020-06-05T08:56:55.000Z</published>
     <updated>2020-06-05T09:02:09.119Z</updated>
     
@@ -39,12 +39,12 @@
     
     </summary>
     
-      <category term="编程算法" scheme="https://github.com/RobotSlam666/RobotSlam666.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="编程算法" scheme="https://robotslam666.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="leetcode" scheme="https://github.com/RobotSlam666/RobotSlam666.github.io/tags/leetcode/"/>
+      <category term="leetcode" scheme="https://robotslam666.github.io/tags/leetcode/"/>
     
-      <category term="算法" scheme="https://github.com/RobotSlam666/RobotSlam666.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://robotslam666.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
